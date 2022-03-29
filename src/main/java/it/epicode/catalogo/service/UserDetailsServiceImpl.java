@@ -9,6 +9,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+
 import it.epicode.catalogo.model.security.User;
 import it.epicode.catalogo.repository.UserRepository;
 
