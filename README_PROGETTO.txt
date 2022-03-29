@@ -5,7 +5,7 @@ http://localhost:8080/swagger-ui.html
 Bisogna prima effettuare il login (o signup); 
 
 I metodi GETALL sono accessibili ANCHE a utenti "user"
-tutti gi altri solo con utente "admin"
+tutti gli altri solo con utente "admin"
 
 Una volta registrati o loggati (c'è già un admin nel database, username=admin, password=admin)
 si può accedere ai vari metodi crud.
